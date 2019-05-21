@@ -1,2 +1,3 @@
 ##はじめてのGihHub  
-まずはGitHubの基本を覚えよう！
+まずはGitHubの基本を覚えよう！  
+sakura
